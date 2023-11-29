@@ -19,3 +19,5 @@ leo execute main
 This example shows how to sum two u32 numbers.
 
 It takes the input data from inputs/helloworld.in
+
+## Discord username: SriyanFernando#1752
